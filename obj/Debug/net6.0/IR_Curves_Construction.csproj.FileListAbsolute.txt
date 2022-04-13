@@ -1,0 +1,15 @@
+D:\Docs\Projects\GitHub\IR_Curves_Construction\bin\Debug\net6.0\IR_Curves_Construction.exe
+D:\Docs\Projects\GitHub\IR_Curves_Construction\bin\Debug\net6.0\IR_Curves_Construction.deps.json
+D:\Docs\Projects\GitHub\IR_Curves_Construction\bin\Debug\net6.0\IR_Curves_Construction.runtimeconfig.json
+D:\Docs\Projects\GitHub\IR_Curves_Construction\bin\Debug\net6.0\IR_Curves_Construction.dll
+D:\Docs\Projects\GitHub\IR_Curves_Construction\bin\Debug\net6.0\ref\IR_Curves_Construction.dll
+D:\Docs\Projects\GitHub\IR_Curves_Construction\bin\Debug\net6.0\IR_Curves_Construction.pdb
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.csproj.AssemblyReference.cache
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.AssemblyInfoInputs.cache
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.AssemblyInfo.cs
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.csproj.CoreCompileInputs.cache
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.dll
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\ref\IR_Curves_Construction.dll
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.pdb
+D:\Docs\Projects\GitHub\IR_Curves_Construction\obj\Debug\net6.0\IR_Curves_Construction.genruntimeconfig.cache
